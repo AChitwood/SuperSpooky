@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GameButton</string>
+
+    <string name="hello_world">Click the button to begin!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  this last string was the only thing added to this file -->
+    <string name="button_1_text">Click here to start!</string>
+</resources>
